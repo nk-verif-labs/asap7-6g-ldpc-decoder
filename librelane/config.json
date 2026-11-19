@@ -1,0 +1,12 @@
+{
+  "DESIGN_NAME": "ldpc_6g_decoder_top",
+  "VERILOG_FILES": [
+    "dir::../rtl/ldpc_6g_decoder_top.v"
+  ],
+  "CLOCK_PORT": "clk",
+  "CLOCK_PERIOD": 1000,
+  "PDK": "asap7",
+  "FP_SIZING": "relative",
+  "FP_CORE_UTIL": 50,
+  "PL_TARGET_DENSITY_PCT": 60
+}
