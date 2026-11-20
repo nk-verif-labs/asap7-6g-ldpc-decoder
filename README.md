@@ -4,6 +4,9 @@
 
 **1.20 GHz `(12, 6)` QC-LDPC Normalized Min-Sum Decoder** implemented on **ASAP7 (7 nm FinFET predictive PDK)** via **OpenROAD-flow-scripts** and verified with **Cocotb 1.9.2**.
 
+
+<p align="center"><img src="assets/ldpc_6g_decoder_top.png" alt="ldpc_6g_decoder_top ASAP7 7nm GDSII Layout" width="720"></p>
+
 ## Architecture Overview
 
 ```mermaid
